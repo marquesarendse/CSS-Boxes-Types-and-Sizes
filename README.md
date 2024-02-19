@@ -14,3 +14,6 @@ Your web page will request a font from the user's device if one is not specifica
 
 People use a variety of gadgets, including desktop computers, tablets, and phones, to access websites. While some people only have the default fonts installed on their devices, others have many fonts installed. If a font isn't mentioned explicitly, your website will request it from the user's device. This restricts the font options available to you when using CSS. It's common practice to specify multiple fonts at once (referred to as a font stack) to ensure compatibility.
 
+Applying Type Formatting with CSS
+
+
